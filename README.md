@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Generative AI 
 - 💞️ I’m looking to collaborate on MERN Projects
+- ⚙️ My Secong Account - https://github.com/JustDevnDSA
 
 
 <!---

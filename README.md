@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prakash Kumnar<br>👀 I’m interested in Web Development and AI<br>💞️ I’m looking to collaborate on MERN Projects
+👋 Hi, I’m Prakash Kumar<br>👀 I’m interested in Web Development and AI<br>💞️ I’m looking to collaborate on MERN Projects
 
 
 ## 🌐 Socials:
